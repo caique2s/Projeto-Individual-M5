@@ -6,7 +6,7 @@ e vai devolver essa lista ordenada de A-Z.
 Configuração:
 
 (no terminal) 
-- node.js: "Npm init"
+- node.js: "npm init"
 - readline-sync: "npm install readline-sync"
 
 (no index.js)
